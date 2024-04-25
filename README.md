@@ -10,7 +10,7 @@ This is a solution to the [Easybank landing page challenge on Frontend Mentor](h
 
 ### Links
 
-- [Solution URL](https://your-solution-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/easybanklandingpage-r-oc6Oah1r)
 - [Live Site URL](https://gamesdst.github.io/easybank-landing-page/)
 
 ### Built with
